@@ -5,3 +5,8 @@ plotly
 pillow
 requests
 matplotlib
+datetime
+plotly.express
+plotly.graph_objects
+io
+fpdf
