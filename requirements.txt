@@ -1,12 +1,6 @@
 streamlit
-numpy
 pandas
-plotly
-pillow
-requests
 matplotlib
-datetime
-plotly.express
-plotly.graph_objects
-io
+numpy
+plotly
 fpdf
