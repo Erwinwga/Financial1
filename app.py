@@ -36,7 +36,7 @@ st.markdown(f"""
     """, unsafe_allow_html=True)
 
 # Logo
-st.sidebar.image("C:/Users/AGBINVESTMENTS/OneDrive/Escritorio/AG.png", use_column_width=True)
+#st.sidebar.image("C:/Users/AGBINVESTMENTS/OneDrive/Escritorio/AG.png", use_column_width=True)
 
 # Título en la aplicación
 st.sidebar.title("Menú de Opciones")
